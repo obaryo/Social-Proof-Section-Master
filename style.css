@@ -38,6 +38,9 @@ h1 {
 	font-size: 2rem;
 	padding: 2rem 2rem;
 }
+h2 {
+	font-weight: normal;
+}
 .left p {
 	padding-inline: 1rem;
 	padding-bottom: 2rem;
