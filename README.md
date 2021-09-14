@@ -22,9 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
+- Solution URL: (https://www.frontendmentor.io/solutions/social-proof-section-html-css-flexbox-EoTyj9NRD)
+- Live Site URL: (https://social-proof-section-master-obaryo.vercel.app/)
 ## My process
 
 ### Built with
