@@ -24,6 +24,8 @@ body {
 }
 .container {
 	padding-top: 1rem;
+	margin: 0 auto;
+	max-width: 1300px;
 }
 .section--one {
 	display: grid;
